@@ -1,0 +1,129 @@
+
+#strona {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tytul {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#gry {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#stopka {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+body {
+    background-color: #303031;
+}
+
+img {
+    border-radius: 10px;
+}
+
+#navigacja {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#gra-a {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#gra-b {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#gra-c {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#gra-d {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
+#gra-e {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    margin: 25px;
+}
+
